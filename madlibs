@@ -1,5 +1,5 @@
 function wordBlanks(noun1, adjective1, place1, verbPastTense1, ingVerb) {
-  var result = "Once there was a " + noun1 + "named Willie. She was a very " + adjective1 + noun1 + ". She woke up one morning and wanted to visit the " + place1 + "in town, so she " + verbPastTense1 "her way there, " + ingVerb + "all the way!";
+  var result = "Once there was a " + noun1 + " named Willie. She was a very " + adjective1 + " " + noun1 + ". She woke up one morning and wanted to visit the " + place1 + " in town, so she " + verbPastTense1 + " her way there, " + ingVerb + " all the way!";
 
   return result;
 }
