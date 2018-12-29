@@ -4,4 +4,4 @@ function wordBlanks(noun1, adjective1, place1, verbPastTense1, ingVerb) {
   return result;
 }
 
-wordBlanks("dog", "silly", "library", "sniffed", "tooting");
+wordBlanks("dog", "silly", "library", "sniffed", "flipping");
